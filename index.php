@@ -1,3 +1,3 @@
 <?php
-echo something;
+echo $something;
 ?>
